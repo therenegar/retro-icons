@@ -1,6 +1,9 @@
 # Retro Icons
 
-Browse **3,798 icons** in pages of up to 500. Click any 32 × 32 preview to open its `.ICO` file.
+<img width="1280" alt="Retro Icon Library" src="https://github.com/user-attachments/assets/c5af29a4-4998-4aaa-9e84-44250e62075c" />
+
+Browse **3,798 icons** on the pages below.<br/>
+Click any 32 × 32 preview to download its `.ICO` file.
 
 - [Page 1 — icons 1–500](page1.md)
 - [Page 2 — icons 501–1,000](page2.md)
